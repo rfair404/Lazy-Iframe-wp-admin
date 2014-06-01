@@ -1,0 +1,12 @@
+#adminmenu, #adminmenuback{
+    display:none;
+}
+.auto-fold #wpcontent, #wpcontent{
+    margin-left: 0px;
+}
+#wpadminbar{
+    display: none;
+}
+html.wp-toolbar{
+    padding-top: 0px;
+}
